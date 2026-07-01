@@ -1,5 +1,5 @@
 # Zakhar Varfolomeev 👋
-### Senior Machine Learning Engineer | Music & Speech
+### Stuff Machine Learning Engineer | Music & Speech
 
 > *~80% of model quality comes from data.*
 
