@@ -33,25 +33,6 @@ As an active contributor to the machine learning community, I serve as an organi
 
 ---
 
-### 💼 Executive R&D Experience
-
-#### **Songsterr** — *ML Engineer (Audio Processing)* | *08.2025 – 03.2026*
-* Led an autonomous, zero-overhead R&D initiative to solve a previously open problem in MIR: generating complete fingerstyle guitar arrangements directly from arbitrary complex audio mixes.
-* Designed and executed a production-ready, two-stage ML pipeline mapping raw audio to synchronized MIDI and production-grade Guitar Tabs.
-* Curated, aligned, and optimized a proprietary dataset of ~10,000 original-to-cover track pairs utilizing automated data-matching heuristics.
-* Implemented structured token masking, LoRA, and beam search optimization to achieve high-fidelity generation quality validated by professional arrangers.
-
-#### **Yandex Music** — *ML Engineer (Audio Processing)* | *04.2025 – 08.2025*
-* Engineered high-efficiency neural audio codecs optimized specifically for heavy music generation workloads, improving codebook utilization and reconstruction fidelity.
-* Conducted systematic quality analyses evaluating reconstruction fidelity, robustness to generative noise, and the fundamental suitability of latent representations.
-* Trained foundational self-supervised learning (SSL) audio representation models from scratch and created a comprehensive local validation benchmark.
-
-#### **X-Labs AI** — *ML Engineer (Audio Processing)* | *01.2024 – 01.2025*
-* Architected and implemented a large-scale Text-to-Audio generation pipeline, currently operating as a core component of the company's automated music production suite.
-* Scaled model workloads across multi-node infrastructures using advanced Distributed Training methodologies.
-
----
-
 ### 🔬 Research, Publications & Open-Source
 
 * **Dynamic Codebook Adaptation (AIRI Research):** Authored a novel method for dynamic codebook size adaptation in VQ-VAEs via a Codebook Size Predictor (CSP) module with Truncated-GMM sampling. When integrated with an audio-tokenized LM (Qwen2.5 0.5B), it significantly boosted UTMOS metrics from ~1.5 to ~2.0 while achieving 99% codebook utilization.
