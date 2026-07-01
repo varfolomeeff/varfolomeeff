@@ -9,10 +9,10 @@ As an active contributor to the machine learning community, I serve as an organi
 
 ### 🛠️ Core Domain Expertise
 
-* **Generative Speech & Music Architecture:** End-to-end design of state-of-the-art TTS frameworks (including F5-TTS architectures), emotional speech synthesis, and autoregressive music generation pipelines.
+* **Generative Speech & Music Architecture:** End-to-end design of state-of-the-art emotional speech synthesis, voice cloning and hybrid music generation pipelines.
 * **Neural Audio Codecs & Quantization:** Deep expertise in optimizing neural audio codecs for retrieval, downstream generation, and music synthesis workloads. Advanced practical experience in custom loss design to enhance musical coherence, improve reconstruction fidelity, mitigate generative noise, and maximize codebook utilization. Developed novel methods for dynamic codebook size adaptation in VQ-VAE frameworks.
-* **Self-Supervised Learning (SSL):** Training robust acoustic representation models from scratch and utilizing self-supervised approaches to extract rich, informative features for downstream latent models.
-* **Music Information Retrieval (MIR):** Advanced polyphonic piano/guitar transcription, automated arrangement generation, structural token masking, and custom alignment algorithms (DTW).
+* **Self-Supervised Learning (SSL):** Training robust acoustic representation models from scratch and utilizing self-supervised approaches to extract rich, informative features for downstream models.
+* **Music Information Retrieval (MIR):** Advanced polyphonic piano/guitar transcription, automated arrangement generation, developed custom metrics and datasets.
 
 ---
 
