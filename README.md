@@ -41,7 +41,7 @@ As an active contributor to the machine learning community, I serve as an organi
 * Curated, aligned, and optimized a proprietary dataset of ~10,000 original-to-cover track pairs utilizing automated data-matching heuristics.
 * Implemented structured token masking, LoRA, and beam search optimization to achieve high-fidelity generation quality validated by professional arrangers.
 
-#### **Yandex Music** — *ML Engineer (Generative AI Team)* | *04.2025 – 08.2025*
+#### **Yandex Music** — *ML Engineer (Audio Processing)* | *04.2025 – 08.2025*
 * Engineered high-efficiency neural audio codecs optimized specifically for heavy music generation workloads, improving codebook utilization and reconstruction fidelity.
 * Conducted systematic quality analyses evaluating reconstruction fidelity, robustness to generative noise, and the fundamental suitability of latent representations.
 * Trained foundational self-supervised learning (SSL) audio representation models from scratch and created a comprehensive local validation benchmark.
