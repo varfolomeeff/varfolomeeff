@@ -51,6 +51,5 @@ As an active contributor to the machine learning community, I serve as an organi
 
 * **Email:** [varfolomeev.research@gmail.com](mailto:varfolomeev.research@gmail.com)
 * **Telegram:** [@varfolomeefff](https://t.me/varfolomeefff)
-* **GitHub:** [@varfolomeeff](https://github.com/varfolomeeff)
 
 ---
