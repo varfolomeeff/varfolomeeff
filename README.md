@@ -1,5 +1,5 @@
 # Zakhar Varfolomeev 👋
-### Senior Machine Learning Engineer | Neural Audio & Generative Acoustic Systems
+### Senior Machine Learning Engineer | Music & Speech
 
 I am a highly specialized Machine Learning Engineer dedicated to the audio domain[cite: 1]. My expertise spans the entire lifecycle of advanced audio processing architectures, with deep practical experience in music and speech generation, self-supervised acoustic modeling, high-fidelity neural audio codecs, music transcription (MIR), source separation, and reinforcement learning for audio language models[cite: 1, 2].
 
