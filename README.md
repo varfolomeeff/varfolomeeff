@@ -16,17 +16,18 @@ As an active contributor to the machine learning community, I serve as an organi
 
 ---
 
-### 🎙️ Keynotes & Public Speaking
+### 🎙️ Technical Talks & Presentations
 
-I regularly present on cutting-edge neural audio methodologies at major machine learning venues[cite: 1]. Selected presentations include:
+#### The Audio2MIDI Development Series
+1. [Zakhar Varfolomeev | Generating Musical Notes From Arbitrary Audio Content](https://www.youtube.com/watch?v=uLZsDD4PFxw)[cite: 1]
+2. [Zakhar Varfolomeev | "Translating Audio into Piano Notes"](https://www.youtube.com/watch?v=hWlQrtbrq9I)[cite: 1]
+3. [Zakhar Varfolomeev | Automated Music Transcription into Piano Notes](https://www.youtube.com/watch?v=sNQT1L93YCA)[cite: 1]
 
-1. [Architectural Breakthroughs in Neural Audio Domain — Keynote 1](https://www.youtube.com/watch?v=uLZsDD4PFxw)
-2. [Advanced Applications of Self-Supervised Audio Representations — Keynote 2](https://www.youtube.com/watch?v=hWlQrtbrq9I)
-3. [Scaling Generative Music Paradigms in Production — Keynote 3](https://www.youtube.com/watch?v=sNQT1L93YCA)
-4. [Overcoming Alignment Challenges in Multi-Modal Audio Tasks — Keynote 4](https://www.youtube.com/watch?v=4mVfb-mhv9k)
-5. [The Engineering of Large-Scale Speech Corpora — Keynote 5](https://youtu.be/L-z1oGIyboo?si=U3x9m_EQmSp5Ql32)
-6. [Next-Generation Text-to-Speech & Post-Training Alignment — Keynote 6](https://www.youtube.com/watch?v=MoEzG_1L210)
-7. [Industry Panel: The Future of Neural Sound Synthesis — Keynote 7](https://m.youtube.com/watch?v=NOdTBdAXdIM&pp=0gcJCSgLAYcqIYzv)
+#### Educational Materials About ML for Audio
+4. [Lecture: Audio Codecs. Part 1](https://www.youtube.com/watch?v=4mVfb-mhv9k)[cite: 1]
+5. [Seminar: Audio Codecs](https://youtu.be/L-z1oGIyboo?si=U3x9m_EQmSp5Ql32)[cite: 1]
+6. [Markov Lab Seminar — VQ-VAE and Beyond](https://www.youtube.com/watch?v=MoEzG_1L210)[cite: 1]
+7. [Lecture 11: Audio Generation (Advanced DL Course by AI Knowledge Club)](https://m.youtube.com/watch?v=NOdTBdAXdIM&pp=0gcJCSgLAYcqIYzv)[cite: 1]
 
 ---
 
